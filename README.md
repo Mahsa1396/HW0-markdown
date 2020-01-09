@@ -16,3 +16,8 @@ Here is the fenced code block:
 String Name = "MahsaSharifi";
 Cout<<Name<<endl;
 ```
+
+```python
+s = "Python syntax highlighting"
+print s
+```
