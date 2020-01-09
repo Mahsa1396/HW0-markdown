@@ -7,4 +7,11 @@
 3. This is the third Item
 
 ##### b)
-This is a paragraph that I am practicing emphasis and inline codes. This is how I can write _Italics_ using underscores. We can use 2 underscore to write a __bold__ word. If we combine underscore with asterisks we can write down a **_bold Italics_** . <dd>Last but not the list is explaining how to use inline HTML code. We can creat inline codes using HTML tags.</dd>
+This is a paragraph that I am practicing emphasis and inline codes. This is how I can write _Italics_ using underscores. We can use 2 underscore to write a __bold__ word. If we combine underscore with asterisks we can write down a **_bold Italics_** . Last but not the least is to create an inline code, using `back-ticks` around the word we want to highlight. 
+
+##### c)
+Here is the fenced code block:
+
+```C++
+String Name = "MahsaSharifi";
+Cout<<Name<<endl;
