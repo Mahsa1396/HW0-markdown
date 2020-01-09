@@ -12,12 +12,7 @@ This is a paragraph that I am practicing emphasis and inline codes. This is how 
 ##### c)
 Here is the fenced code block:
 
-```C++
-String Name = "MahsaSharifi";
-Cout<<Name<<endl;
-```
-
 ```python
-s = "Python syntax highlighting"
-print s
+s = "Mahsa Sharifi"
+print(s)
 ```
